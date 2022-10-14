@@ -15,6 +15,14 @@ Deploy a self-hosted version of [Miniflux](https://miniflux.app) on Railway. Int
 - Add the required environment variables
 - Deploy
 
+## Themes
+
+To install a theme: Go to **Settings > Custom CSS** and paste the contents there
+
+1. https://gist.github.com/TaylanTatli/c1c725691a69eeb9c5f5889371317ed5
+2. https://github.com/fengkx/miniflux-theme-pure
+3. https://codeberg.org/zoenglinghou/miniflux-theme
+
 ## 📝 Notes
 
 - Source repo: https://github.com/miniflux/v2/
