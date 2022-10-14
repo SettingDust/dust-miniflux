@@ -7,7 +7,7 @@ Deploy a self-hosted version of [Miniflux](https://miniflux.app) on Railway. Int
 ## ✨ Features
 
 - Miniflux
-- PostgreSQL (Deployed on Railway but can use external databases too)
+- PostgreSQL deployed on Railway but can use external databases too. Just set the ENV variable `$DATABASE_URL` with connection parameters. See [lib/pq](https://pkg.go.dev/github.com/lib/pq#hdr-Connection_String_Parameters) for more details.
 
 ## 💁‍♀️ How to use
 
